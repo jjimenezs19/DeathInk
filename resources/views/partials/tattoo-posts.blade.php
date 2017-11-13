@@ -6,11 +6,11 @@
                     <article id="1">
                         <div class="post_image" style="background-image:url(img/post2.jpg);"><a href="/tattoo-care"></a></div>
                         <div class="post_content">
-                            <p class="post_name">Post</p>
-                            <a href="/tattoo-care"><h4>Tattoo Care</h4></a>
-                            <p class="post_date">04.04.2017</p>
-                            <p class="post_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed totam rem aperiam, eaque ipsa quae ab illo inventore. Lorem ipsum dolor sit amet.</p>
-                            <a class="more_gallery" href="/tattoo-care">Read more</a>
+                            <p class="post_name">Articulo</p>
+                            <a href="/tattoo-care"><h4>Cuidados del Tatuaje</h4></a>
+                            <p class="post_date">19.05.2017</p>
+                            <p class="post_text">El artista puede hacer todo a su alcance para ofrecerte una experiencia del tatuaje segura y limpia y conseguirte el mejor tatuaje posible, pero una vez que salgas del estudio es tu responsabilidad...</p>
+                            <a class="more_gallery" href="/tattoo-care">Leer más...</a>
                             <div class="clearfix"></div>
                         </div>
                     </article>

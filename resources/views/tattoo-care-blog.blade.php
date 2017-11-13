@@ -3,7 +3,7 @@
 @section('slider-image')
     <div style="background-image:url(/img/blog-image.jpg); background-repeat:no-repeat; background-attachment: fixed; " class="h_slider-p h_slider-page">
         <div id="h_content" class="h_content slide-in">
-            <h1 class="h_title">Tattoo Cares</h1>
+            <h1 class="h_title">Cuidados del Tatuaje</h1>
         </div>
     </div>
 @endsection
@@ -19,29 +19,44 @@
                         <img alt="Tattoo Theme - FutureTeam" src="/img/post-image.jpg">
                     </div>
                     <div class="post-inner">
-                        <p class="post_name">Post</p>
-                        <h4>Standard and image post template</h4>
-                        <p class="post_date">04.04.2017 <span class="cat_post">NEWS</span></p>
+                        <p class="post_name">Articulo</p>
+                        <h4>CURAR Y CUIDAR UN TATUAJE RECIÉN HECHO</h4>
+                        <p class="post_date">19.05.2017</p>
                         <div class="content-post">
-                            <p style="text-align:justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis <strong>nostrud exercitation ullamco laboris nisi ut aliquip</strong> ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus
-                                error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem.</p>
-                            <blockquote class="blockquote-post" style="">Crsus dictumst, enim, vut integer auctor pid porta magna integer? Facilisis rhoncus mattis rhoncus placerat, vut phasellus, pulvinar mauris? Dolor dapibus enim a vel penatibus! Sit amet, dictumst sed magnis aliquet!
-                            </blockquote>
-                            <p style="text-align:justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                                aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit
-                                voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem.</p>
-                            <h2>Heading 2</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <strong>Excepteur sint occaecat cupidatat</strong> non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                                accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem.</p>
-                            <h3>Heading 3</h3>
-                            <p>Lorem sit quis in dignissim rhoncus sed. Nisi lorem ut ac adipiscing nunc integer cum pulvinar, turpis a ultrices nascetur ac phasellus ac natoque? Egestas cursus ut amet nunc etiam nunc aliquet cursus tincidunt. Montes scelerisque.</p>
-                            <p>- Egestas cursus<br>
-                                - Ut amet nunc<br>
-                                - Etiam nunc</p>
-                            <p>Adipiscing. Egestas ultricies sed? Tristique pid, mus non nec dis turpis odio. Facilisis, ultrices placerat. Ac urna? Quis tristique cursus arcu adipiscing augue pulvinar, parturient mauris, amet porta, auctor ultrices nisi pulvinar, sit, egestas duis amet non, augue
-                                aliquam habitasse, augue nunc. Nascetur nisi sit penatibus dapibus purus, enim non nec.</p>
+                            <p style="text-align:justify;">
+                                El proceso de curación por lo general tarda entre 7 y 14
+                                días, pero dependiendo del tipo del tatuaje, tamaño, ubicación y también capacidad de curación de tu cuerpo ese proceso puede acortarse o extenderse.
+                                La verdad es que el tatuaje puede tomar hasta un mes para sanar completamente.</p>
+                            <blockquote class="blockquote-post" style=""></blockquote>
+                            <p style="text-align:justify;">
+                                Un tatuaje fresco puede ser descrito como una sensación similar a una quemadura de sol. El área tiende a picar un poco, y puede ponerse de color rojo y ponerse un poco inflamada o elevada. Todo esto es una parte natural del proceso de curación del tatuaje.
+                                <br>Durante los dos primeros días, también observarás exudación de líquido claro y el exceso de tinta que es totalmente normal y nada de qué preocuparse, pero asegúrate de mantener tu tatuaje limpio.
+
+                                <br>Después de un par de días, la piel alrededor del tatuaje puede llegar a secarse y tu piel comenzará a pelar/descamarse como una quemadura de sol. De esta forma, comenzarás a sentir picor en todo tu tatuaje.
+
+                                <br><strong>No frotes ni toques la zona tratada mientras está sanando. Una pérdida de color y/o infección podría ocurrir.</strong>
+
+                                <br>Después de dos semanas, o cuando tu tatuaje esté completamente sanado podrás volver a tu crema hidratante habitual.</p>
+                            <h2>Cuidados</h2>
+                            <p> - Lava tus manos adecuadamente con jabón  antibacterial cada vez que vayas a manejar tu tatuaje para limpiar o cualquier otra cosa.<br>
+                                - Después de retirar el plástico, y de preferencia dos veces al día, lava el tatuaje con agua fria y un jabón antibacterial, da un masaje con la yema de tus dedos y enjuaga.
+                                  Una vez aseado el tatuaje, espera a que seque completamente la piel.<br>
+                                - Para evitar que la zona se reseque y/o pueda infectarse aplica durante los siete días posteriores al tatuaje la crema recomiendada por el tatuador.
+                                  Una de las cremas más recomendables y fácil de adquirir es la Bepanthen.<br>
+                                - Evita las exposiciones directas al sol, y si tienes que hacerlo procura tapar el tatuaje y usar un protector solar para evitar que los colores se desvanezcan.<br>
+                                - Después  de la primera semana con la crema recomendada, usa otra crema humectante. Esta crema te ayudará, además de mantener humectada la zona, a evitar la molesta comenzón que se presenta a la semana de haberte hecho el tatuaje.<br>
+                            </p>
+                            <h2>Que no se debe hacer</h2>
+                            <p>Es fundamental evitar:</p>
+                            <p> - Mojar el tatuaje en el baño, la sauna, el jacuzzi o ir a nadar en el mar o piscinas. El ducharse con agua fria esta bien.<br>
+                                - Evita ir al gimnasio o hacer deportes de contacto durante la primer semana de curación<br>
+                                - No te rasques, frotes o toques tu tatuaje fresco<br>
+                                - No expongas a tu nuevo tatuaje a la luz solar directa. Esto puede conducir a la decoloración y podrías fácilmente quemar la piel.<br>
+                                - No uses esponja para limpiar tu tatuaje, masajea suavemente con la mano previamente lavada.<br>
+                                - No apliques demasiada crema; una capa delgada bastará.<br>
+                                - Evitar tocar y no dejes que otros toquen a tu tatuaje fresco.<br>
+                                - No dejes que tu tatuaje se adhiera a la ropa.<br>
+                            </p>
                         </div>
                         <div class="post-counter">
                             {{--<ul>--}}
@@ -68,7 +83,7 @@
                     <div class="featimage-2" style="background-image:url(/img/art1.jpg);"></div>
                 </div>
                 <div class="artists-r">
-                    <div class="cat_name"><h2>Artists</h2></div>
+                    <div class="cat_name"><h2>Artista</h2></div>
                     <div class="artist_right-2">
                         <div class="artist_content-2">
                             <div class="inner_content">
@@ -77,10 +92,10 @@
                             </div>
                         </div>
                         <div class="check_social_black">
-                            <p>Check social media
-                                <a href="#" class="soc twitt"><img alt="Tattoo Theme - FutureTeam" src="./img/twitter.png"></a>
-                                <a href="#" class="soc twitt"><img alt="Tattoo Theme - FutureTeam" src="./img/facebook.png"></a>
-                                <a href="#" class="soc twitt"><img alt="Tattoo Theme - FutureTeam" src="./img/youtube.png"></a></p>
+                            <p>Redes Sociales
+                                <a href="#" class="soc twitt"><img alt="" src="/img/twitter.png"></a>
+                                <a href="https://www.facebook.com/DeathlessInkTattoo/" class="soc twitt"><img alt="social facebook" src="/img/facebook.png"></a>
+                                <a href="#" class="soc twitt"><img alt="" src="/img/youtube.png"></a></p>
                         </div>
                         {{--<a class="more_gallery" href="#">See artist posts</a>--}}
                     </div>

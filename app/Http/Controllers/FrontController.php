@@ -13,7 +13,11 @@ class FrontController extends Controller
 
     public function gallery()
     {
-        return view('gallery');
+        $dirname = "img/tattoos/";
+        $images = glob($dirname."*.jpg");
+
+        return view('gallery')->with('images', $images);
+
     }
     public function tattooCare()
     {

@@ -13,18 +13,18 @@
                 <li class="artist">
                     <div class="featimage" style="background-image:url(img/art1.jpg);"></div>
                     <div class="check_social_white">
-                        <p>Check social media
-                            <a href="#" class="soc twitt"><img alt="" src="img/twitter.png"></a>
-                            <a href="https://www.facebook.com/DeathlessInkTattoo/" class="soc twitt"><img alt="social facebook" src="img/facebook.png"></a>
-                            <a href="#" class="soc twitt"><img alt="" src="img/youtube.png"></a></p>
+                        <p>Redes Sociales
+                            <a href="#" class="soc twitt"><img alt="" src="/img/twitter.png"></a>
+                            <a href="https://www.facebook.com/DeathlessInkTattoo/" class="soc twitt"><img alt="social facebook" src="/img/facebook.png"></a>
+                            <a href="#" class="soc twitt"><img alt="" src="/img/youtube.png"></a></p>
                     </div>
                     <div class="artist_right">
                         <div class="rectangle-4"></div>
                         <div class="artist_content">
-                            <h2>Artist</h2>
+                            <h2>Artista</h2>
                             <h1>Jerónimo<br>Vallejos</h1>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed totam rem aperiam, eaque ipsa quae ab illo inventore. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed totam rem aperiam, eaque ipsa quae ab illo inventore.</p>
-                            <a class="more_gallery" href="#">See artist gallery</a>
+                            {{--<a class="more_gallery" href="#">See artist gallery</a>--}}
                         </div>
                     </div>
                 </li>

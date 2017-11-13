@@ -7,7 +7,7 @@
             <div class="h_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed <br>
                 totam rem aperiam, eaque ipsa quae ab illo inventore.
             </div>
-            <a href="#" class="h_button">Buy theme</a>
+            {{--<a href="#" class="h_button">Buy theme</a>--}}
 
         </div>
         <div class="arrow bounce"></div>
@@ -26,10 +26,10 @@
     <div class="container  img_gal">
         <a href="/gallery" class="h_button-gallery">See all tattoo images</a>
         <ul>
-            <li style="background-image: url(img/gal1.jpg); background-size:cover"><a href="img/gal1.jpg" rel=""><span class="plus_cover"></span></a></li>
-            <li style="background-image: url(img/gal2.jpg); background-size:cover"><a href="img/gal2.jpg" rel=""><span class="plus_cover"></span></a></li>
-            <li style="background-image: url(img/gal3.jpg); background-size:cover"><a href="img/gal3.jpg" rel=""><span class="plus_cover"></span></a></li>
-            <li style="background-image: url(img/gal4.jpg); background-size:cover"><a href="img/gal4.jpg" rel=""><span class="plus_cover"></span></a></li>
+            <li style="background-image: url(img/tattoos/gal1.jpg); background-size:cover"><a href="img/tattoos/gal1.jpg" rel=""><span class="plus_cover"></span></a></li>
+            <li style="background-image: url(img/tattoos/gal2.jpg); background-size:cover"><a href="img/tattoos/gal2.jpg" rel=""><span class="plus_cover"></span></a></li>
+            <li style="background-image: url(img/tattoos/gal3.jpg); background-size:cover"><a href="img/tattoos/gal3.jpg" rel=""><span class="plus_cover"></span></a></li>
+            <li style="background-image: url(img/tattoos/gal4.jpg); background-size:cover"><a href="img/tattoos/gal4.jpg" rel=""><span class="plus_cover"></span></a></li>
         </ul>
         <div class="clearfix"></div>
     </div>
